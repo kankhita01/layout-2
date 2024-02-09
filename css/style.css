@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: bisque;
+    color: blue;
+    text-align: center;
+}
+.banner{
+    background-color: aquamarine;
+    color: burlywood;
+    text-align: center;
+    height: 300px;
+}
+.complex{
+    height: 600px;
+    display: flex;
+}
+.left_part{
+    width: 25%;
+    height: 100%;
+    background-color: indianred;
+}
+.center{
+    width: 50%;
+    height: 100%;
+    background-color: antiquewhite;
+}
+.top{
+    height: 25%;
+    background-color: blue;
+}
+.middle{
+    height: 50%;
+    background-color: blueviolet;
+}
+.bottom{
+    height: 25%;
+    background-color: cadetblue;
+}
+.right_part{
+    width: 25%;
+    height: 100%;
+    background-color: darkcyan;
+}
+.footer{
+    background-color: black;
+    height: 80px;
+}
